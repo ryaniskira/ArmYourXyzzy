@@ -1,22 +1,20 @@
-# Docker Your Xyzzy
+# ARM Your Xyzzy
+This image is based on the :latest or :3 tag from emcniece/DockerYourXyzzy
 
-Get your Xyzzy on: `docker pull emcniece/dockeryourxyzzy`
+Get your Xyzzy on: `docker pull ryaniskira/armyourxyzzy:latest`
 
-- Github: [emcniece/DockerYourXyzzy](https://github.com/emcniece/DockerYourXyzzy)
-- Docker Hub: [emcniece/dockeryourxyzzy](https://hub.docker.com/r/emcniece/dockeryourxyzzy/)
+- Github: [Ryaniskira/ArmYourXyzzy](https://github.com/ryaniskira/ArmYourXyzzy)
+- Docker Hub: [Ryaniskira/armyourxyzzy](https://hub.docker.com/repository/docker/ryaniskira/armyourxyzzy)
 
 
 # Supported tags and respective `Dockerfile` links:
 
-- `latest`, `3` ([Dockerfile](./Dockerfile))
-- `latest`, `run`, `2`, `2-run` ([Dockerfile](https://github.com/emcniece/DockerYourXyzzy/blob/83bfeebe9c3a7619dd4409c02b92fa8b88dd298a/Dockerfile))
-- `base`, `2-base` ([Dockerfile](https://github.com/emcniece/DockerYourXyzzy/blob/83bfeebe9c3a7619dd4409c02b92fa8b88dd298a/Dockerfile))
-- `dev`, `2-dev` ([Dockerfile](https://github.com/emcniece/DockerYourXyzzy/blob/83bfeebe9c3a7619dd4409c02b92fa8b88dd298a/Dockerfile))
+Not yet
 
 
-# What is Docker Your Xyzzy?
+# What is ARM Your Xyzzy?
 
-This is a containerized build of the [Pretend You're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) Cards Against Humanity clone.
+This is a containerized build of the [Pretend You're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) Cards Against Humanity clone built to run on ARM64/aarch64 platforms such as the Raspberry Pi 4.
 
 > ⚠ Version 3 (April 2020) is a vastly simplified Docker image, may break if upgrading from version 2. It no longer features multi-step builds.
 
