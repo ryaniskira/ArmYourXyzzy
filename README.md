@@ -1,9 +1,9 @@
 # Docker Your Xyzzy
 
-Get your Xyzzy on: `Not yet`
+Get your Xyzzy on: `Dockerhub`
 
-- Github: Not yet
-- Docker Hub: NOt yet
+- Github: [Ryaniskira/ArmYourZyzzy](https://github.com/ryaniskira/ArmYourZyzzy)
+- Docker Hub: [Ryaniskira/ArmYourZyzzy](https://hub.docker.com/repository/docker/ryaniskira/armyourzyzzy)
 
 
 # Supported tags and respective `Dockerfile` links:
