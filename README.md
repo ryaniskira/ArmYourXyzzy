@@ -1,17 +1,14 @@
 # Docker Your Xyzzy
 
-Get your Xyzzy on: `docker pull emcniece/dockeryourxyzzy`
+Get your Xyzzy on: `Not yet`
 
-- Github: [emcniece/DockerYourXyzzy](https://github.com/emcniece/DockerYourXyzzy)
-- Docker Hub: [emcniece/dockeryourxyzzy](https://hub.docker.com/r/emcniece/dockeryourxyzzy/)
+- Github: Not yet
+- Docker Hub: NOt yet
 
 
 # Supported tags and respective `Dockerfile` links:
 
-- `latest`, `3` ([Dockerfile](./Dockerfile))
-- `latest`, `run`, `2`, `2-run` ([Dockerfile](https://github.com/emcniece/DockerYourXyzzy/blob/83bfeebe9c3a7619dd4409c02b92fa8b88dd298a/Dockerfile))
-- `base`, `2-base` ([Dockerfile](https://github.com/emcniece/DockerYourXyzzy/blob/83bfeebe9c3a7619dd4409c02b92fa8b88dd298a/Dockerfile))
-- `dev`, `2-dev` ([Dockerfile](https://github.com/emcniece/DockerYourXyzzy/blob/83bfeebe9c3a7619dd4409c02b92fa8b88dd298a/Dockerfile))
+Not yet
 
 
 # What is Docker Your Xyzzy?
