@@ -112,19 +112,3 @@ Force building with the `--build` flag:
 # Run PYX/Postgres stack
 docker-compose up -d --build
 ```
-
-
-# ToDo
-
-- [x] Figure out how to run `:latest` properly with a Postgres db
-- [ ] Import & run sql files if specified for the Postgres db
-- [ ] Buildtime config customization via Maven flags
-- [ ] Runtime config customization via Maven flags
-- [ ] Fetch GeoIP database in entrypoint.sh
-
-
-# Notes
-
-- ~Haven't actually got this working with an external Postgres db yet~
-  - Now available via `docker-compose`
-- Versioning and tagging isn't done well here because [Pretend You're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) doesn't seem to tag or version.
