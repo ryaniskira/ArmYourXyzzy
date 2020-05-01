@@ -27,7 +27,7 @@ VOLUME /app /output
 # OVERRIDE:
 # Specify geoip2 version until https://github.com/ajanata/PretendYoureXyzzy/pull/228
 RUN apt install openssh-client \
- && git clone -b $GIT_BRANCH https://github.com/ajanata/PretendYoureXyzzy.git /project \
+ && git clone -b $GIT_BRANCH https://github.com/ryaniskira/PretendYoureXyzzy.git /project \
  && cd /project \
  && cp build.properties.example build.properties \
  && mvn versions:use-dep-version \
