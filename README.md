@@ -1,10 +1,10 @@
 # ARM Your Xyzzy
 This image is based on the :latest or :3 tag from emcniece/DockerYourXyzzy
 
-Get your Xyzzy on: `docker pull ryaniskira/armyourzyzzy:latest`
+Get your Xyzzy on: `docker pull ryaniskira/armyourxyzzy:latest`
 
-- Github: [Ryaniskira/ArmYourZyzzy](https://github.com/ryaniskira/ArmYourZyzzy)
-- Docker Hub: [Ryaniskira/ArmYourZyzzy](https://hub.docker.com/repository/docker/ryaniskira/armyourzyzzy)
+- Github: [Ryaniskira/ArmYourXyzzy](https://github.com/ryaniskira/ArmYourXyzzy)
+- Docker Hub: [Ryaniskira/armyourxyzzy](https://hub.docker.com/repository/docker/ryaniskira/armyourxyzzy)
 
 
 # Supported tags and respective `Dockerfile` links:
