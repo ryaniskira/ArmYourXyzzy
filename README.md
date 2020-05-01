@@ -1,6 +1,7 @@
-# Docker Your Xyzzy
+# ARM Your Xyzzy
+This image is based on the :latest or :3 tag from emcniece/DockerYourXyzzy
 
-Get your Xyzzy on: `Dockerhub`
+Get your Xyzzy on: `docker pull ryaniskira/armyourzyzzy:latest`
 
 - Github: [Ryaniskira/ArmYourZyzzy](https://github.com/ryaniskira/ArmYourZyzzy)
 - Docker Hub: [Ryaniskira/ArmYourZyzzy](https://hub.docker.com/repository/docker/ryaniskira/armyourzyzzy)
@@ -11,9 +12,9 @@ Get your Xyzzy on: `Dockerhub`
 Not yet
 
 
-# What is Docker Your Xyzzy?
+# What is ARM Your Xyzzy?
 
-This is a containerized build of the [Pretend You're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) Cards Against Humanity clone.
+This is a containerized build of the [Pretend You're Xyzzy](https://github.com/ajanata/PretendYoureXyzzy) Cards Against Humanity clone built to run on ARM64/aarch64 platforms such as the Raspberry Pi 4.
 
 > ⚠ Version 3 (April 2020) is a vastly simplified Docker image, may break if upgrading from version 2. It no longer features multi-step builds.
 
